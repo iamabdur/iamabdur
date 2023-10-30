@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdur Rahman</h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
-<img align="right" width="400" src="https://media2.giphy.com/media/9LQHvkbIzTSLe/giphy.gif">
+<img align="right" width="300" height="300" src="https://media2.giphy.com/media/9LQHvkbIzTSLe/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamabdur&label=Profile%20views&color=0e75b6&style=flat" alt="iamabdur" /> </p>
 

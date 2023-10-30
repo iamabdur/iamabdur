@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdur Rahman</h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
-<img align="right" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fdesigner-vs-developer&psig=AOvVaw1z-YogsPzimB6nyhQ3Q2s2&ust=1698770004532000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKD6p8eZnoIDFQAAAAAdAAAAABAZ">
+<img align="right" width="400" src="https://media2.giphy.com/media/9LQHvkbIzTSLe/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamabdur&label=Profile%20views&color=0e75b6&style=flat" alt="iamabdur" /> </p>
 
